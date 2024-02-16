@@ -1,0 +1,1 @@
+xcopy /e "C:\Users\otaci\OneDrive\--- Projetos ---\--- Projeto Dicionários ---\Babylon\ETL Python\origem_ok" "C:\Users\otaci\OneDrive\--- Projetos ---\--- Projeto Dicionários ---\Babylon\ETL Python\origem"
