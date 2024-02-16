@@ -1,0 +1,15 @@
+.pyre
+#.vscode
+*~
+*.py[oc]
+/build
+/dist
+/bin
+/pyglossary.egg-info
+/.mypy_cache/
+/plugins
+/ui
+.coverage
+*,cover
+htmlcov
+vulture.*
